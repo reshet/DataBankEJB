@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser
+END
+QueryParserTokenManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/QueryParserTokenManager.class
+END
+QueryParserConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/QueryParserConstants.class
+END
+Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/Token.class
+END
+TokenMgrError.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/TokenMgrError.class
+END
+MultiFieldQueryParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/MultiFieldQueryParser.class
+END
+QueryParser$Operator.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/QueryParser$Operator.class
+END
+QueryParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/QueryParser.class
+END
+FastCharStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/FastCharStream.class
+END
+QueryParser$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/QueryParser$1.class
+END
+QueryParser$LookaheadSuccess.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/QueryParser$LookaheadSuccess.class
+END
+CharStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/CharStream.class
+END
+ParseException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/ParseException.class
+END
+QueryParser$JJCalls.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/queryParser/QueryParser$JJCalls.class
+END

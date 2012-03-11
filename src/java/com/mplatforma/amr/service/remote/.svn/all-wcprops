@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/remote
+END
+RxStorageBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/remote/RxStorageBeanRemote.java
+END
+AmrBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/remote/AmrBeanRemote.java
+END
+AdminSocioResearchBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/remote/AdminSocioResearchBeanRemote.java
+END
+UserSocioResearchBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/remote/UserSocioResearchBeanRemote.java
+END
+UserAccountBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/remote/UserAccountBeanRemote.java
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document
+END
+MapFieldSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/MapFieldSelector.class
+END
+FieldSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/FieldSelector.class
+END
+DateTools$Resolution.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/DateTools$Resolution.class
+END
+NumericField$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/NumericField$1.class
+END
+DateTools.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/DateTools.class
+END
+SetBasedFieldSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/SetBasedFieldSelector.class
+END
+Field$TermVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$TermVector.class
+END
+Field$Store.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Store.class
+END
+NumericField$DataType.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/NumericField$DataType.class
+END
+Fieldable.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Fieldable.class
+END
+NumberTools.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/NumberTools.class
+END
+Document.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Document.class
+END
+Field$Index.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Index.class
+END
+DateField.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/DateField.class
+END
+CompressionTools.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/CompressionTools.class
+END
+FieldSelectorResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/FieldSelectorResult.class
+END
+Field.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field.class
+END
+DateTools$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/DateTools$1.class
+END
+DateTools$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/DateTools$2.class
+END
+DateTools$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/DateTools$3.class
+END
+Field$TermVector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$TermVector$1.class
+END
+Field$TermVector$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$TermVector$2.class
+END
+Field$TermVector$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$TermVector$3.class
+END
+Field$Store$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Store$1.class
+END
+Field$TermVector$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$TermVector$4.class
+END
+Field$Store$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Store$2.class
+END
+Field$TermVector$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$TermVector$5.class
+END
+LoadFirstFieldSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/LoadFirstFieldSelector.class
+END
+Field$Index$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Index$1.class
+END
+Field$Index$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Index$2.class
+END
+Field$Index$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Index$3.class
+END
+NumericField.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/NumericField.class
+END
+AbstractField.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/AbstractField.class
+END
+Field$Index$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Index$4.class
+END
+Field$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$1.class
+END
+Field$Index$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/document/Field$Index$5.class
+END

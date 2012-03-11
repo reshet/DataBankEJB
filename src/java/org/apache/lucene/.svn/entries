@@ -1,0 +1,89 @@
+10
+
+dir
+6
+https://mplatforma.com/svn/repo/DatabankEnterprise-ejb/src/java/org/apache/lucene
+https://mplatforma.com/svn/repo
+
+
+
+2012-01-28T11:41:51.360520Z
+2
+reshet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1b731343-5334-42a7-8cc8-72dfc5028148
+
+queryParser
+dir
+
+analysis
+dir
+
+collation
+dir
+
+search
+dir
+
+index
+dir
+
+messages
+dir
+
+LucenePackage.class
+file
+
+
+
+
+2012-01-29T01:18:26.090239Z
+d38576a9505c232bc81e2244382dd85c
+2012-01-28T11:41:51.360520Z
+2
+reshet
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+419
+
+store
+dir
+
+util
+dir
+
+document
+dir
+

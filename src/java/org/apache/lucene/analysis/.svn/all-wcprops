@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis
+END
+CharArrayMap$EntrySet.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArrayMap$EntrySet.class
+END
+CharArraySet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArraySet$1.class
+END
+BaseCharFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/BaseCharFilter.class
+END
+LowerCaseTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/LowerCaseTokenizer.class
+END
+CharArraySet$CharArraySetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArraySet$CharArraySetIterator.class
+END
+StopwordAnalyzerBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/StopwordAnalyzerBase.class
+END
+LengthFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/LengthFilter.class
+END
+WhitespaceTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/WhitespaceTokenizer.class
+END
+CharArrayMap$UnmodifiableCharArrayMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArrayMap$UnmodifiableCharArrayMap.class
+END
+CharStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharStream.class
+END
+KeywordAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/KeywordAnalyzer.class
+END
+StopAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/StopAnalyzer.class
+END
+StopFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/StopFilter.class
+END
+TokenStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/TokenStream.class
+END
+WordlistLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/WordlistLoader.class
+END
+TeeSinkTokenFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/TeeSinkTokenFilter$1.class
+END
+MappingCharFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/MappingCharFilter.class
+END
+SimpleAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/SimpleAnalyzer.class
+END
+ASCIIFoldingFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/ASCIIFoldingFilter.class
+END
+CachingTokenFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CachingTokenFilter.class
+END
+CharTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharTokenizer.class
+END
+PorterStemmer.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/PorterStemmer.class
+END
+TeeSinkTokenFilter$SinkFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/TeeSinkTokenFilter$SinkFilter.class
+END
+CharArrayMap$EntryIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArrayMap$EntryIterator.class
+END
+CharArrayMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArrayMap.class
+END
+PorterStemFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/PorterStemFilter.class
+END
+Tokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/Tokenizer.class
+END
+NumericTokenStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/NumericTokenStream.class
+END
+KeywordTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/KeywordTokenizer.class
+END
+TeeSinkTokenFilter$SinkTokenStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/TeeSinkTokenFilter$SinkTokenStream.class
+END
+Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/Token.class
+END
+CharFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharFilter.class
+END
+Analyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/Analyzer.class
+END
+TokenFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/TokenFilter.class
+END
+ISOLatin1AccentFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/ISOLatin1AccentFilter.class
+END
+CharArrayMap$EmptyCharArrayMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArrayMap$EmptyCharArrayMap.class
+END
+CharArraySet.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArraySet.class
+END
+LowerCaseFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/LowerCaseFilter.class
+END
+LetterTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/LetterTokenizer.class
+END
+FilteringTokenFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/FilteringTokenFilter.class
+END
+ReusableAnalyzerBase$TokenStreamComponents.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/ReusableAnalyzerBase$TokenStreamComponents.class
+END
+NormalizeCharMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/NormalizeCharMap.class
+END
+KeywordMarkerFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/KeywordMarkerFilter.class
+END
+LimitTokenCountFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/LimitTokenCountFilter.class
+END
+LimitTokenCountAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/LimitTokenCountAnalyzer.class
+END
+CharArrayMap$MapEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArrayMap$MapEntry.class
+END
+CharArrayMap$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharArrayMap$1.class
+END
+CharReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/CharReader.class
+END
+PerFieldAnalyzerWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/PerFieldAnalyzerWrapper.class
+END
+Token$TokenAttributeFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/Token$TokenAttributeFactory.class
+END
+WhitespaceAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/WhitespaceAnalyzer.class
+END
+ReusableAnalyzerBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/ReusableAnalyzerBase.class
+END
+TeeSinkTokenFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/TeeSinkTokenFilter.class
+END

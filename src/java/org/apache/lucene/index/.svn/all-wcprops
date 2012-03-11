@@ -1,0 +1,1481 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index
+END
+DocumentsWriter$SkipDocWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$SkipDocWriter.class
+END
+ReusableStringReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ReusableStringReader.class
+END
+CheckIndex$Status.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex$Status.class
+END
+DirectoryReader$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DirectoryReader$2.class
+END
+BufferedDeletesStream$QueryAndLimit.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/BufferedDeletesStream$QueryAndLimit.class
+END
+FormatPostingsFieldsConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsFieldsConsumer.class
+END
+PrefixCodedTerms$Builder.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PrefixCodedTerms$Builder.class
+END
+BufferedDeletesStream$ApplyDeletesResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/BufferedDeletesStream$ApplyDeletesResult.class
+END
+DocFieldConsumerPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldConsumerPerThread.class
+END
+InvertedDocEndConsumerPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/InvertedDocEndConsumerPerField.class
+END
+StoredFieldsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/StoredFieldsWriter.class
+END
+DocFieldConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldConsumer.class
+END
+SegmentReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentReader.class
+END
+FilterIndexReader$FilterTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FilterIndexReader$FilterTermEnum.class
+END
+FreqProxTermsWriterPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FreqProxTermsWriterPerField.class
+END
+TermInfosReader$CloneableTerm.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfosReader$CloneableTerm.class
+END
+CompoundFileReader$FileEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CompoundFileReader$FileEntry.class
+END
+AbstractAllTermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/AbstractAllTermDocs.class
+END
+InvertedDocConsumerPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/InvertedDocConsumerPerField.class
+END
+TermsHashPerField$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermsHashPerField$1.class
+END
+DocInverterPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocInverterPerField.class
+END
+CheckIndex$Status$TermVectorStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex$Status$TermVectorStatus.class
+END
+TermVectorsReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorsReader.class
+END
+TermVectorsTermsWriterPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorsTermsWriterPerField.class
+END
+FrozenBufferedDeletes$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FrozenBufferedDeletes$1.class
+END
+IndexNotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexNotFoundException.class
+END
+DefaultSkipListWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DefaultSkipListWriter.class
+END
+MultipleTermPositions$TermPositionsQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultipleTermPositions$TermPositionsQueue.class
+END
+FormatPostingsTermsConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsTermsConsumer.class
+END
+ByteSliceReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ByteSliceReader.class
+END
+DirectoryReader$MultiTermPositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DirectoryReader$MultiTermPositions.class
+END
+TieredMergePolicy$SegmentByteSizeDescending.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TieredMergePolicy$SegmentByteSizeDescending.class
+END
+LogDocMergePolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/LogDocMergePolicy.class
+END
+PrefixCodedTerms.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PrefixCodedTerms.class
+END
+DocInverterPerThread$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocInverterPerThread$1.class
+END
+InvertedDocEndConsumerPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/InvertedDocEndConsumerPerThread.class
+END
+TermFreqVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermFreqVector.class
+END
+SegmentReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentReader$1.class
+END
+SnapshotDeletionPolicy$SnapshotCommitPoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SnapshotDeletionPolicy$SnapshotCommitPoint.class
+END
+IndexDeletionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexDeletionPolicy.class
+END
+CoalescedDeletes$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CoalescedDeletes$1.class
+END
+ByteBlockPool$Allocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ByteBlockPool$Allocator.class
+END
+ConcurrentMergeScheduler$MergeThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ConcurrentMergeScheduler$MergeThread.class
+END
+MultiLevelSkipListReader$SkipBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultiLevelSkipListReader$SkipBuffer.class
+END
+SegmentInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentInfo.class
+END
+MultipleTermPositions$IntQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultipleTermPositions$IntQueue.class
+END
+TermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermDocs.class
+END
+MergePolicy$MergeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MergePolicy$MergeException.class
+END
+DocumentsWriter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$1.class
+END
+MergePolicy$MergeAbortedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MergePolicy$MergeAbortedException.class
+END
+PositionBasedTermVectorMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PositionBasedTermVectorMapper.class
+END
+ReadOnlySegmentReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ReadOnlySegmentReader.class
+END
+PersistentSnapshotDeletionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PersistentSnapshotDeletionPolicy.class
+END
+IndexWriter$ReaderPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexWriter$ReaderPool.class
+END
+TermsHashConsumerPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermsHashConsumerPerField.class
+END
+TermVectorsTermsWriter$PerDoc.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorsTermsWriter$PerDoc.class
+END
+FrozenBufferedDeletes$2$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FrozenBufferedDeletes$2$1.class
+END
+DirectoryReader$ReaderCommit.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DirectoryReader$ReaderCommit.class
+END
+DocumentsWriter$PerDocBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$PerDocBuffer.class
+END
+SegmentMerger$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentMerger$1.class
+END
+TermInfosReader$TermInfoAndOrd.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfosReader$TermInfoAndOrd.class
+END
+TermInfosReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfosReader.class
+END
+FreqProxFieldMergeState.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FreqProxFieldMergeState.class
+END
+MultipleTermPositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultipleTermPositions.class
+END
+FieldsReader$LazyField.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldsReader$LazyField.class
+END
+TermBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermBuffer.class
+END
+TieredMergePolicy$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TieredMergePolicy$1.class
+END
+CoalescedDeletes$2$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CoalescedDeletes$2$1.class
+END
+CheckIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex.class
+END
+Term.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/Term.class
+END
+ByteBlockPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ByteBlockPool.class
+END
+CompoundFileReader$CSIndexInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CompoundFileReader$CSIndexInput.class
+END
+FilterIndexReader$FilterTermPositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FilterIndexReader$FilterTermPositions.class
+END
+FrozenBufferedDeletes.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FrozenBufferedDeletes.class
+END
+DirectoryReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DirectoryReader$1.class
+END
+TermVectorOffsetInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorOffsetInfo.class
+END
+TermInfosReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfosReader$1.class
+END
+ParallelReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ParallelReader.class
+END
+TermPositionVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermPositionVector.class
+END
+UpgradeIndexMergePolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/UpgradeIndexMergePolicy.class
+END
+DocConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocConsumer.class
+END
+InvertedDocConsumerPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/InvertedDocConsumerPerThread.class
+END
+SegmentCoreReaders.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentCoreReaders.class
+END
+ParallelPostingsArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ParallelPostingsArray.class
+END
+CheckIndex$Status$SegmentInfoStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex$Status$SegmentInfoStatus.class
+END
+ReadOnlyDirectoryReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ReadOnlyDirectoryReader.class
+END
+FieldsWriter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldsWriter$1.class
+END
+CoalescedDeletes.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CoalescedDeletes.class
+END
+IndexReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexReader.class
+END
+NormsWriterPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/NormsWriterPerThread.class
+END
+DocFieldProcessorPerThread$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldProcessorPerThread$1.class
+END
+SerialMergeScheduler.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SerialMergeScheduler.class
+END
+DocInverterPerThread$SingleTokenAttributeSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocInverterPerThread$SingleTokenAttributeSource.class
+END
+IndexFileDeleter$CommitPoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexFileDeleter$CommitPoint.class
+END
+MergePolicy$MergeSpecification.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MergePolicy$MergeSpecification.class
+END
+SegmentMerger.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentMerger.class
+END
+FieldInfo$IndexOptions.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldInfo$IndexOptions.class
+END
+CompoundFileReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CompoundFileReader.class
+END
+TermsHashConsumerPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermsHashConsumerPerThread.class
+END
+TermVectorsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorsWriter.class
+END
+IndexWriter$FlushControl.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexWriter$FlushControl.class
+END
+TieredMergePolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TieredMergePolicy.class
+END
+MultiReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultiReader.class
+END
+MergePolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MergePolicy.class
+END
+SegmentTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentTermEnum.class
+END
+IndexFormatTooOldException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexFormatTooOldException.class
+END
+ByteSliceWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ByteSliceWriter.class
+END
+TermInfosReader$ThreadResources.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfosReader$ThreadResources.class
+END
+SegmentNorms.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentNorms.class
+END
+DirectoryReader$MultiTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DirectoryReader$MultiTermEnum.class
+END
+TermInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfo.class
+END
+DocFieldProcessorPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldProcessorPerField.class
+END
+IndexFileDeleter$RefCount.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexFileDeleter$RefCount.class
+END
+FieldsReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldsReader.class
+END
+Payload.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/Payload.class
+END
+IndexWriterConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexWriterConfig.class
+END
+NoMergeScheduler.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/NoMergeScheduler.class
+END
+MergeScheduler.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MergeScheduler.class
+END
+IntBlockPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IntBlockPool.class
+END
+DocFieldConsumerPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldConsumerPerField.class
+END
+IndexUpgrader.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexUpgrader.class
+END
+ParallelReader$ParallelTermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ParallelReader$ParallelTermDocs.class
+END
+PositionBasedTermVectorMapper$TVPositionInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PositionBasedTermVectorMapper$TVPositionInfo.class
+END
+FormatPostingsPositionsConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsPositionsConsumer.class
+END
+TermInfosWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfosWriter.class
+END
+TermVectorEntryFreqSortedComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorEntryFreqSortedComparator.class
+END
+DocFieldProcessorPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldProcessorPerThread.class
+END
+FieldInvertState.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldInvertState.class
+END
+NoMergePolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/NoMergePolicy.class
+END
+SegmentInfos$FindSegmentsFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentInfos$FindSegmentsFile.class
+END
+FieldsReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldsReader$1.class
+END
+CoalescedDeletes$SubIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CoalescedDeletes$SubIterator.class
+END
+PayloadProcessorProvider$DirPayloadProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PayloadProcessorProvider$DirPayloadProcessor.class
+END
+FieldInfos.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldInfos.class
+END
+DocInverterPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocInverterPerThread.class
+END
+KeepOnlyLastCommitDeletionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/KeepOnlyLastCommitDeletionPolicy.class
+END
+MultiLevelSkipListReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultiLevelSkipListReader.class
+END
+DocumentsWriter$DocState.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$DocState.class
+END
+DocumentsWriter$IndexingChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$IndexingChain.class
+END
+NormsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/NormsWriter.class
+END
+TermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermEnum.class
+END
+TermsHash.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermsHash.class
+END
+SegmentTermPositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentTermPositions.class
+END
+IndexWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexWriter.class
+END
+MergePolicy$OneMerge.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MergePolicy$OneMerge.class
+END
+CoalescedDeletes$TermMergeQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CoalescedDeletes$TermMergeQueue.class
+END
+DocFieldProcessorPerThread$PerDoc.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldProcessorPerThread$PerDoc.class
+END
+InvertedDocEndConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/InvertedDocEndConsumer.class
+END
+StaleReaderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/StaleReaderException.class
+END
+FilterIndexReader$FilterTermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FilterIndexReader$FilterTermDocs.class
+END
+ParallelArrayTermVectorMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ParallelArrayTermVectorMapper.class
+END
+IndexFileDeleter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexFileDeleter.class
+END
+TermVectorEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorEntry.class
+END
+FreqProxTermsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FreqProxTermsWriter.class
+END
+IndexReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexReader$1.class
+END
+CoalescedDeletes$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CoalescedDeletes$3.class
+END
+CompoundFileWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CompoundFileWriter.class
+END
+LogMergePolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/LogMergePolicy.class
+END
+InvertedDocConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/InvertedDocConsumer.class
+END
+CharBlockPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CharBlockPool.class
+END
+PayloadProcessorProvider$PayloadProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PayloadProcessorProvider$PayloadProcessor.class
+END
+DocInverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocInverter.class
+END
+TermVectorsTermsWriterPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorsTermsWriterPerThread.class
+END
+IndexWriterConfig$OpenMode.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexWriterConfig$OpenMode.class
+END
+StoredFieldsWriter$PerDoc.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/StoredFieldsWriter$PerDoc.class
+END
+TermVectorsTermsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorsTermsWriter.class
+END
+DirectoryReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DirectoryReader.class
+END
+TermVectorsTermsWriterPerField$TermVectorsPostingsArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorsTermsWriterPerField$TermVectorsPostingsArray.class
+END
+IndexReader$FieldOption.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexReader$FieldOption.class
+END
+IndexFileNames.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexFileNames.class
+END
+DocumentsWriter$WaitQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$WaitQueue.class
+END
+PrefixCodedTerms$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PrefixCodedTerms$1.class
+END
+TieredMergePolicy$MergeScore.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TieredMergePolicy$MergeScore.class
+END
+TermsHashPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermsHashPerThread.class
+END
+MergeDocIDRemapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MergeDocIDRemapper.class
+END
+SegmentMergeInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentMergeInfo.class
+END
+SegmentInfos.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentInfos.class
+END
+FormatPostingsFieldsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsFieldsWriter.class
+END
+FieldsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldsWriter.class
+END
+SnapshotDeletionPolicy$SnapshotInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SnapshotDeletionPolicy$SnapshotInfo.class
+END
+FormatPostingsDocsConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsDocsConsumer.class
+END
+CompoundFileWriter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CompoundFileWriter$1.class
+END
+AllTermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/AllTermDocs.class
+END
+FreqProxTermsWriterPerField$FreqProxPostingsArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FreqProxTermsWriterPerField$FreqProxPostingsArray.class
+END
+CheckIndex$Status$StoredFieldStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex$Status$StoredFieldStatus.class
+END
+TermsHashConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermsHashConsumer.class
+END
+FreqProxTermsWriterPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FreqProxTermsWriterPerThread.class
+END
+PrefixCodedTerms$PrefixCodedTermsIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PrefixCodedTerms$PrefixCodedTermsIterator.class
+END
+SegmentTermVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentTermVector.class
+END
+IndexCommit.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexCommit.class
+END
+DocConsumerPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocConsumerPerThread.class
+END
+MultipleTermPositions$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultipleTermPositions$1.class
+END
+NoDeletionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/NoDeletionPolicy.class
+END
+SortedTermVectorMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SortedTermVectorMapper.class
+END
+TermInfosReaderIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermInfosReaderIndex.class
+END
+IndexWriter$MaxFieldLength.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexWriter$MaxFieldLength.class
+END
+FieldSortedTermVectorMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldSortedTermVectorMapper.class
+END
+FieldReaderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldReaderException.class
+END
+DocumentsWriter$DocWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$DocWriter.class
+END
+SegmentInfos$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentInfos$1.class
+END
+FormatPostingsTermsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsTermsWriter.class
+END
+BufferedDeletes.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/BufferedDeletes.class
+END
+BufferedDeletesStream$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/BufferedDeletesStream$1.class
+END
+DefaultSkipListReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DefaultSkipListReader.class
+END
+DocumentsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter.class
+END
+SegmentMerger$CheckAbort.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentMerger$CheckAbort.class
+END
+FieldInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FieldInfo.class
+END
+TermVectorMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermVectorMapper.class
+END
+FilterIndexReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FilterIndexReader.class
+END
+LogByteSizeMergePolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/LogByteSizeMergePolicy.class
+END
+ParallelReader$ParallelTermPositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ParallelReader$ParallelTermPositions.class
+END
+IndexWriter$IndexReaderWarmer.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexWriter$IndexReaderWarmer.class
+END
+ConcurrentMergeScheduler.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ConcurrentMergeScheduler.class
+END
+FrozenBufferedDeletes$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FrozenBufferedDeletes$2.class
+END
+DocumentsWriter$ByteBlockAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriter$ByteBlockAllocator.class
+END
+MultiLevelSkipListWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/MultiLevelSkipListWriter.class
+END
+SegmentTermPositionVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentTermPositionVector.class
+END
+CheckIndex$MySegmentTermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex$MySegmentTermDocs.class
+END
+SnapshotDeletionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SnapshotDeletionPolicy.class
+END
+CompoundFileWriter$FileEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CompoundFileWriter$FileEntry.class
+END
+ParallelReader$ParallelTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ParallelReader$ParallelTermEnum.class
+END
+IndexFileNameFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexFileNameFilter.class
+END
+CoalescedDeletes$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CoalescedDeletes$2.class
+END
+SegmentReader$FieldsReaderLocal.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentReader$FieldsReaderLocal.class
+END
+SegmentWriteState.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentWriteState.class
+END
+TermPositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermPositions.class
+END
+StoredFieldsWriterPerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/StoredFieldsWriterPerThread.class
+END
+FormatPostingsPositionsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsPositionsWriter.class
+END
+FormatPostingsDocsWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/FormatPostingsDocsWriter.class
+END
+CheckIndex$Status$FieldNormStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex$Status$FieldNormStatus.class
+END
+ConcurrentMergeScheduler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/ConcurrentMergeScheduler$1.class
+END
+DocumentsWriterThreadState.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocumentsWriterThreadState.class
+END
+SegmentMergeQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentMergeQueue.class
+END
+IndexFormatTooNewException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexFormatTooNewException.class
+END
+CompoundFileReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CompoundFileReader$1.class
+END
+LogMergePolicy$SegmentInfoAndLevel.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/LogMergePolicy$SegmentInfoAndLevel.class
+END
+IndexReader$ReaderFinishedListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/IndexReader$ReaderFinishedListener.class
+END
+SegmentTermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/SegmentTermDocs.class
+END
+BufferedDeletesStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/BufferedDeletesStream.class
+END
+PayloadProcessorProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/PayloadProcessorProvider.class
+END
+CheckIndex$Status$TermIndexStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CheckIndex$Status$TermIndexStatus.class
+END
+CorruptIndexException.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/CorruptIndexException.class
+END
+NormsWriterPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/NormsWriterPerField.class
+END
+DirectoryReader$MultiTermDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DirectoryReader$MultiTermDocs.class
+END
+DocFieldProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/DocFieldProcessor.class
+END
+TermsHashPerField.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/index/TermsHashPerField.class
+END

@@ -1,0 +1,1709 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search
+END
+NumericRangeQuery$NumericRangeTermEnum$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NumericRangeQuery$NumericRangeTermEnum$2.class
+END
+DisjunctionMaxScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DisjunctionMaxScorer.class
+END
+FieldCacheImpl$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$Entry.class
+END
+TimeLimitingCollector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TimeLimitingCollector$1.class
+END
+MultiSearcher$MultiSearcherCallableWithSort.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiSearcher$MultiSearcherCallableWithSort.class
+END
+Searchable.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Searchable.class
+END
+FieldCacheRangeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter.class
+END
+DefaultSimilarity.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DefaultSimilarity.class
+END
+ScoringRewrite$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ScoringRewrite$2.class
+END
+MultiSearcher$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiSearcher$1.class
+END
+FieldComparator$RelevanceComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$RelevanceComparator.class
+END
+FieldComparator$FloatComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$FloatComparator.class
+END
+ConstantScoreQuery$ConstantWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConstantScoreQuery$ConstantWeight.class
+END
+CachingCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingCollector.class
+END
+Query.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Query.class
+END
+NumericRangeQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NumericRangeQuery.class
+END
+SpanFilterResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SpanFilterResult.class
+END
+TopDocs$ScoreMergeSortQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopDocs$ScoreMergeSortQueue.class
+END
+FieldCache$LongParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$LongParser.class
+END
+ConstantScoreQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConstantScoreQuery.class
+END
+Similarity$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Similarity$2.class
+END
+MultiTermQueryWrapperFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQueryWrapperFilter.class
+END
+FieldCacheRangeFilter$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$2.class
+END
+DocIdSet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DocIdSet$1.class
+END
+ParallelMultiSearcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ParallelMultiSearcher.class
+END
+FilterManager$FilterCleaner.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilterManager$FilterCleaner.class
+END
+TermQuery$TermWeight$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermQuery$TermWeight$1.class
+END
+TopScoreDocCollector$OutOfOrderPagingScoreDocCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopScoreDocCollector$OutOfOrderPagingScoreDocCollector.class
+END
+TopFieldCollector$OutOfOrderMultiComparatorScoringNoMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OutOfOrderMultiComparatorScoringNoMaxScoreCollector.class
+END
+NumericRangeQuery$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NumericRangeQuery$1.class
+END
+FieldCache$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$5.class
+END
+ScoreDoc.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ScoreDoc.class
+END
+MultiCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiCollector.class
+END
+FieldDocSortedHitQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldDocSortedHitQueue.class
+END
+SearcherLifetimeManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SearcherLifetimeManager.class
+END
+WildcardTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/WildcardTermEnum.class
+END
+FieldCacheImpl$FloatCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$FloatCache.class
+END
+TopTermsRewrite$ScoreTerm.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopTermsRewrite$ScoreTerm.class
+END
+MultiTermQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQuery.class
+END
+FilteredQuery$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilteredQuery$1.class
+END
+TermRangeQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermRangeQuery.class
+END
+MatchAllDocsQuery$MatchAllScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MatchAllDocsQuery$MatchAllScorer.class
+END
+MultiPhraseQuery$MultiPhraseWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiPhraseQuery$MultiPhraseWeight.class
+END
+BooleanScorer$BucketScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer$BucketScorer.class
+END
+CachingWrapperFilter$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingWrapperFilter$1$1.class
+END
+MultiTermQuery$RewriteMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQuery$RewriteMethod.class
+END
+TopFieldCollector$MultiComparatorScoringMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$MultiComparatorScoringMaxScoreCollector.class
+END
+FieldCache$DoubleParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$DoubleParser.class
+END
+ExactPhraseScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ExactPhraseScorer.class
+END
+FieldComparator$LongComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$LongComparator.class
+END
+FieldCacheImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl.class
+END
+FieldCacheRangeFilter$FieldCacheDocIdSet$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$FieldCacheDocIdSet$2.class
+END
+TopFieldCollector$MultiComparatorNonScoringCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$MultiComparatorNonScoringCollector.class
+END
+Searcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Searcher.class
+END
+ConstantScoreQuery$ConstantScorer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConstantScoreQuery$ConstantScorer$1.class
+END
+SingleTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SingleTermEnum.class
+END
+TopScoreDocCollector$InOrderPagingScoreDocCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopScoreDocCollector$InOrderPagingScoreDocCollector.class
+END
+BooleanClause$Occur$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanClause$Occur$3.class
+END
+FuzzyTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FuzzyTermEnum.class
+END
+MultiTermQuery$ConstantScoreAutoRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQuery$ConstantScoreAutoRewrite.class
+END
+FieldCache$FloatParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$FloatParser.class
+END
+TopTermsRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopTermsRewrite.class
+END
+FieldValueHitQueue$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldValueHitQueue$1.class
+END
+FieldCacheRangeFilter$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$5.class
+END
+FilteredQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilteredQuery.class
+END
+Sort.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Sort.class
+END
+MultiSearcher$CachedDfSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiSearcher$CachedDfSource.class
+END
+BooleanClause$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanClause$1.class
+END
+FieldCacheImpl$LongCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$LongCache.class
+END
+FieldCache$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$8.class
+END
+PhraseQuery$PostingsAndFreq.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PhraseQuery$PostingsAndFreq.class
+END
+BooleanScorer2$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer2$2.class
+END
+SearcherWarmer.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SearcherWarmer.class
+END
+ConstantScoreAutoRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConstantScoreAutoRewrite.class
+END
+TopFieldCollector$OutOfOrderOneComparatorScoringMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OutOfOrderOneComparatorScoringMaxScoreCollector.class
+END
+FieldCache$Parser.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$Parser.class
+END
+ConstantScoreAutoRewrite$CutOffTermCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConstantScoreAutoRewrite$CutOffTermCollector.class
+END
+TopFieldCollector$OutOfOrderOneComparatorNonScoringCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OutOfOrderOneComparatorNonScoringCollector.class
+END
+DisjunctionSumScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DisjunctionSumScorer.class
+END
+FieldCacheImpl$StringIndexCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$StringIndexCache.class
+END
+FieldCache$CreationPlaceholder.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$CreationPlaceholder.class
+END
+FieldCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache.class
+END
+FieldCache$ShortParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$ShortParser.class
+END
+CachingSpanFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingSpanFilter$1.class
+END
+BooleanClause.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanClause.class
+END
+TopFieldCollector$MultiComparatorScoringNoMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$MultiComparatorScoringNoMaxScoreCollector.class
+END
+PositiveScoresOnlyCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PositiveScoresOnlyCollector.class
+END
+PhrasePositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PhrasePositions.class
+END
+Scorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Scorer.class
+END
+NGramPhraseQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NGramPhraseQuery.class
+END
+FieldComparator$DocComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$DocComparator.class
+END
+FieldCache$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$3.class
+END
+TimeLimitingCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TimeLimitingCollector.class
+END
+FieldCache$IntParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$IntParser.class
+END
+SpanFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SpanFilter.class
+END
+SloppyPhraseScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SloppyPhraseScorer.class
+END
+ParallelMultiSearcher$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ParallelMultiSearcher$2.class
+END
+IndexSearcher$ExecutionHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/IndexSearcher$ExecutionHelper.class
+END
+FieldCacheImpl$StopFillCacheException.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$StopFillCacheException.class
+END
+MatchAllDocsQuery$MatchAllDocsWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MatchAllDocsQuery$MatchAllDocsWeight.class
+END
+TopScoreDocCollector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopScoreDocCollector$1.class
+END
+ReqExclScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ReqExclScorer.class
+END
+Scorer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Scorer$1.class
+END
+CachingWrapperFilter$DeletesMode.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingWrapperFilter$DeletesMode.class
+END
+MatchAllDocsQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MatchAllDocsQuery.class
+END
+CachingSpanFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingSpanFilter.class
+END
+TopScoreDocCollector$OutOfOrderTopScoreDocCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopScoreDocCollector$OutOfOrderTopScoreDocCollector.class
+END
+SearcherManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SearcherManager.class
+END
+FilteredDocIdSetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilteredDocIdSetIterator.class
+END
+CachingCollector$ScoreCachingCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingCollector$ScoreCachingCollector.class
+END
+HitQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/HitQueue.class
+END
+SearcherLifetimeManager$PruneByAge.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SearcherLifetimeManager$PruneByAge.class
+END
+ScoringRewrite$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ScoringRewrite$3.class
+END
+BooleanClause$Occur$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanClause$Occur$1.class
+END
+FieldComparator$StringOrdValComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$StringOrdValComparator.class
+END
+FilterManager$FilterItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilterManager$FilterItem.class
+END
+IndexSearcher$MultiSearcherCallableWithSort$FakeScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/IndexSearcher$MultiSearcherCallableWithSort$FakeScorer.class
+END
+TopFieldCollector$OutOfOrderOneComparatorScoringNoMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OutOfOrderOneComparatorScoringNoMaxScoreCollector.class
+END
+FieldCacheRangeFilter$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$3.class
+END
+TopDocsCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopDocsCollector.class
+END
+CachingCollector$SegStart.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingCollector$SegStart.class
+END
+NumericRangeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NumericRangeFilter.class
+END
+Filter.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Filter.class
+END
+NumericRangeQuery$NumericRangeTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NumericRangeQuery$NumericRangeTermEnum.class
+END
+SpanQueryFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SpanQueryFilter.class
+END
+Scorer$ScorerVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Scorer$ScorerVisitor.class
+END
+PhraseScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PhraseScorer.class
+END
+QueryWrapperFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/QueryWrapperFilter$1.class
+END
+FieldCache$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$6.class
+END
+FieldComparator$DoubleComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$DoubleComparator.class
+END
+FieldValueHitQueue$OneComparatorFieldValueHitQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldValueHitQueue$OneComparatorFieldValueHitQueue.class
+END
+IndexSearcher$MultiSearcherCallableWithSort.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/IndexSearcher$MultiSearcherCallableWithSort.class
+END
+TopTermsRewrite$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopTermsRewrite$1.class
+END
+FieldCacheRangeFilter$2$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$2$1.class
+END
+SearcherLifetimeManager$Pruner.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SearcherLifetimeManager$Pruner.class
+END
+ScoringRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ScoringRewrite.class
+END
+FieldCacheRangeFilter$4$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$4$1.class
+END
+FieldCacheRangeFilter$6$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$6$1.class
+END
+FilteredQuery$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilteredQuery$2.class
+END
+FieldCache$10.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$10.class
+END
+BooleanClause$Occur.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanClause$Occur.class
+END
+SimilarityDelegator.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SimilarityDelegator.class
+END
+WildcardQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/WildcardQuery.class
+END
+BooleanScorer2$SingleMatchScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer2$SingleMatchScorer.class
+END
+DisjunctionMaxQuery$DisjunctionMaxWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DisjunctionMaxQuery$DisjunctionMaxWeight.class
+END
+ExactPhraseScorer$ChunkState.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ExactPhraseScorer$ChunkState.class
+END
+Similarity.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Similarity.class
+END
+Weight.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Weight.class
+END
+FieldValueHitQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldValueHitQueue.class
+END
+TimeLimitingCollector$TimeExceededException.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TimeLimitingCollector$TimeExceededException.class
+END
+TimeLimitingCollector$TimerThreadHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TimeLimitingCollector$TimerThreadHolder.class
+END
+MultiTermQuery$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQuery$1.class
+END
+TermQuery$TermWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermQuery$TermWeight.class
+END
+BooleanQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanQuery.class
+END
+FieldCacheImpl$StringCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$StringCache.class
+END
+QueryWrapperFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/QueryWrapperFilter.class
+END
+CachingCollector$CachedScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingCollector$CachedScorer.class
+END
+BooleanScorer2.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer2.class
+END
+QueryTermVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/QueryTermVector.class
+END
+TopFieldCollector$OneComparatorNonScoringCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OneComparatorNonScoringCollector.class
+END
+CachingCollector$NoScoreCachingCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingCollector$NoScoreCachingCollector.class
+END
+FieldCacheRangeFilter$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$6.class
+END
+FieldCacheTermsFilter$FieldCacheTermsFilterDocIdSet$FieldCacheTermsFilterDocIdSetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheTermsFilter$FieldCacheTermsFilterDocIdSet$FieldCacheTermsFilterDocIdSetIterator.class
+END
+FieldComparator$NumericComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$NumericComparator.class
+END
+TopScoreDocCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopScoreDocCollector.class
+END
+FieldCache$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$1.class
+END
+TopDocs$ShardRef.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopDocs$ShardRef.class
+END
+TopScoreDocCollector$InOrderTopScoreDocCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopScoreDocCollector$InOrderTopScoreDocCollector.class
+END
+BooleanScorer$Bucket.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer$Bucket.class
+END
+FieldCacheImpl$ShortCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$ShortCache.class
+END
+FieldComparator$StringValComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$StringValComparator.class
+END
+FieldCache$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$9.class
+END
+ConjunctionScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConjunctionScorer.class
+END
+NumericRangeQuery$NumericRangeTermEnum$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NumericRangeQuery$NumericRangeTermEnum$1.class
+END
+ParallelMultiSearcher$ExecutionHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ParallelMultiSearcher$ExecutionHelper.class
+END
+FieldComparator$StringComparatorLocale.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$StringComparatorLocale.class
+END
+TopFieldDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldDocs.class
+END
+FilterManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilterManager.class
+END
+FieldCache$CacheEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$CacheEntry.class
+END
+PrefixQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PrefixQuery.class
+END
+MultiPhraseQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiPhraseQuery.class
+END
+TermScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermScorer.class
+END
+MultiTermQuery$TopTermsScoringBooleanQueryRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQuery$TopTermsScoringBooleanQueryRewrite.class
+END
+FieldComparator$ShortComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$ShortComparator.class
+END
+ParallelMultiSearcher$DocumentFrequencyCallable.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ParallelMultiSearcher$DocumentFrequencyCallable.class
+END
+FieldCache$StringIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$StringIndex.class
+END
+ScoringRewrite$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ScoringRewrite$1.class
+END
+NRTManagerReopenThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NRTManagerReopenThread.class
+END
+ComplexExplanation.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ComplexExplanation.class
+END
+TopDocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopDocs.class
+END
+Similarity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Similarity$1.class
+END
+FieldComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator.class
+END
+SearcherManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SearcherManager$1.class
+END
+FieldCacheImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$1.class
+END
+FieldCacheRangeFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$1.class
+END
+DisjunctionMaxQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DisjunctionMaxQuery.class
+END
+FieldCacheImpl$CacheEntryImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$CacheEntryImpl.class
+END
+PhraseQuery$PhraseWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PhraseQuery$PhraseWeight.class
+END
+CachingWrapperFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingWrapperFilter$1.class
+END
+FieldCacheTermsFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheTermsFilter.class
+END
+BooleanScorer$SubScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer$SubScorer.class
+END
+SortField.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SortField.class
+END
+NRTManager$WaitingListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NRTManager$WaitingListener.class
+END
+FieldCacheImpl$IntCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$IntCache.class
+END
+FieldCache$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$4.class
+END
+IndexSearcher$MultiSearcherCallableNoSort.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/IndexSearcher$MultiSearcherCallableNoSort.class
+END
+FieldCacheImpl$ByteCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$ByteCache.class
+END
+FieldCacheRangeFilter$FieldCacheDocIdSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$FieldCacheDocIdSet.class
+END
+MultiSearcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiSearcher.class
+END
+BooleanScorer$BucketTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer$BucketTable.class
+END
+IndexSearcher$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/IndexSearcher$1.class
+END
+TopFieldCollector$OneComparatorScoringMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OneComparatorScoringMaxScoreCollector.class
+END
+FilteredTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilteredTermEnum.class
+END
+TopDocs$MergeSortQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopDocs$MergeSortQueue.class
+END
+TermCollectingRewrite$TermCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermCollectingRewrite$TermCollector.class
+END
+FieldValueHitQueue$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldValueHitQueue$Entry.class
+END
+PhraseQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PhraseQueue.class
+END
+BooleanScorer2$Coordinator.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer2$Coordinator.class
+END
+FieldCacheRangeFilter$FieldCacheDocIdSet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$FieldCacheDocIdSet$1.class
+END
+TopFieldCollector$OutOfOrderMultiComparatorScoringMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OutOfOrderMultiComparatorScoringMaxScoreCollector.class
+END
+TimeLimitingCollector$TimerThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TimeLimitingCollector$TimerThread.class
+END
+TermRangeTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermRangeTermEnum.class
+END
+BooleanClause$Occur$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanClause$Occur$2.class
+END
+TopFieldCollector$OneComparatorScoringNoMaxScoreCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OneComparatorScoringNoMaxScoreCollector.class
+END
+FieldDoc.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldDoc.class
+END
+SpanFilterResult$PositionInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SpanFilterResult$PositionInfo.class
+END
+Explanation$IDFExplanation.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Explanation$IDFExplanation.class
+END
+FieldCache$ByteParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$ByteParser.class
+END
+ReqOptSumScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ReqOptSumScorer.class
+END
+BooleanQuery$BooleanWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanQuery$BooleanWeight.class
+END
+FieldCacheRangeFilter$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$4.class
+END
+IndexSearcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/IndexSearcher.class
+END
+Collector.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Collector.class
+END
+CachingCollector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingCollector$1.class
+END
+TermRangeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermRangeFilter.class
+END
+FieldComparatorSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparatorSource.class
+END
+TermQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermQuery.class
+END
+BooleanScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer.class
+END
+BooleanQuery$TooManyClauses.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanQuery$TooManyClauses.class
+END
+FieldCache$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$7.class
+END
+BooleanScorer2$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer2$1.class
+END
+ConstantScoreQuery$ConstantScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConstantScoreQuery$ConstantScorer.class
+END
+DocIdSet$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DocIdSet$1$1.class
+END
+TotalHitCountCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TotalHitCountCollector.class
+END
+FieldCacheImpl$DoubleCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$DoubleCache.class
+END
+TermCollectingRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TermCollectingRewrite.class
+END
+FilteredDocIdSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilteredDocIdSet.class
+END
+TopFieldCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector.class
+END
+SpanFilterResult$StartEnd.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SpanFilterResult$StartEnd.class
+END
+Explanation.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/Explanation.class
+END
+FieldCacheTermsFilter$FieldCacheTermsFilterDocIdSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheTermsFilter$FieldCacheTermsFilterDocIdSet.class
+END
+MultiSearcher$MultiSearcherCallableNoSort.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiSearcher$MultiSearcherCallableNoSort.class
+END
+FieldCacheImpl$DocsWithFieldCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$DocsWithFieldCache.class
+END
+FieldComparator$ByteComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$ByteComparator.class
+END
+ConjunctionScorer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ConjunctionScorer$1.class
+END
+MultiTermQuery$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQuery$2.class
+END
+DocIdSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DocIdSet.class
+END
+FilteredDocIdSet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilteredDocIdSet$1.class
+END
+TopFieldCollector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$1.class
+END
+PrefixFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PrefixFilter.class
+END
+CachingWrapperFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingWrapperFilter.class
+END
+NRTManager$SearcherManagerRef.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NRTManager$SearcherManagerRef.class
+END
+DocIdSetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/DocIdSetIterator.class
+END
+MultiTermQuery$TopTermsBoostOnlyBooleanQueryRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/MultiTermQuery$TopTermsBoostOnlyBooleanQueryRewrite.class
+END
+FuzzyQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FuzzyQuery.class
+END
+ScoreCachingWrappingScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ScoreCachingWrappingScorer.class
+END
+FieldCacheImpl$Cache.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheImpl$Cache.class
+END
+FieldComparator$IntComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldComparator$IntComparator.class
+END
+FieldCacheRangeFilter$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$7.class
+END
+BooleanScorer$BooleanScorerCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/BooleanScorer$BooleanScorerCollector.class
+END
+FieldCache$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCache$2.class
+END
+NRTManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/NRTManager.class
+END
+FieldValueHitQueue$MultiComparatorsFieldValueHitQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldValueHitQueue$MultiComparatorsFieldValueHitQueue.class
+END
+CachingWrapperFilter$FilterCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/CachingWrapperFilter$FilterCache.class
+END
+SearcherLifetimeManager$SearcherTracker.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/SearcherLifetimeManager$SearcherTracker.class
+END
+FieldCacheRangeFilter$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$1$1.class
+END
+TopFieldCollector$OutOfOrderMultiComparatorNonScoringCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/TopFieldCollector$OutOfOrderMultiComparatorNonScoringCollector.class
+END
+FieldCacheRangeFilter$3$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$3$1.class
+END
+PhraseQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PhraseQuery.class
+END
+FieldCacheRangeFilter$5$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$5$1.class
+END
+ParallelMultiSearcher$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/ParallelMultiSearcher$1.class
+END
+FilterManager$FilterCleaner$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FilterManager$FilterCleaner$1.class
+END
+PrefixTermEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/PrefixTermEnum.class
+END
+FieldCacheRangeFilter$7$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/FieldCacheRangeFilter$7$1.class
+END

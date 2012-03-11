@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard
+END
+StandardAnalyzer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/StandardAnalyzer$1.class
+END
+StandardTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/StandardTokenizer.class
+END
+ClassicAnalyzer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/ClassicAnalyzer$1.class
+END
+ClassicTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/ClassicTokenizer.class
+END
+StandardTokenizerInterface.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/StandardTokenizerInterface.class
+END
+StandardTokenizerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/StandardTokenizerImpl.class
+END
+ClassicTokenizerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/ClassicTokenizerImpl.class
+END
+UAX29URLEmailTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/UAX29URLEmailTokenizer.class
+END
+UAX29URLEmailTokenizerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/UAX29URLEmailTokenizerImpl.class
+END
+StandardAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/StandardAnalyzer.class
+END
+StandardFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/StandardFilter.class
+END
+ClassicAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/ClassicAnalyzer.class
+END
+ClassicFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/standard/ClassicFilter.class
+END

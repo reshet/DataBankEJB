@@ -1,0 +1,683 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util
+END
+Constants.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Constants.class
+END
+SimpleStringInterner$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SimpleStringInterner$1.class
+END
+CollectionUtil$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CollectionUtil$1.class
+END
+FieldCacheSanityChecker$ReaderField.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/FieldCacheSanityChecker$ReaderField.class
+END
+Counter.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Counter.class
+END
+Parameter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Parameter.class
+END
+BytesRef.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRef.class
+END
+English.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/English.class
+END
+ToStringUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ToStringUtils.class
+END
+CharsRef$UTF16SortedAsUTF8Comparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CharsRef$UTF16SortedAsUTF8Comparator.class
+END
+NumericUtils$LongRangeBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/NumericUtils$LongRangeBuilder.class
+END
+StringHelper$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/StringHelper$1.class
+END
+CloseableThreadLocal.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CloseableThreadLocal.class
+END
+DocIdBitSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/DocIdBitSet.class
+END
+Bits$MatchAllBits.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Bits$MatchAllBits.class
+END
+ReaderUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ReaderUtil.class
+END
+TwoPhaseCommitTool.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/TwoPhaseCommitTool.class
+END
+BytesRef$UTF8SortedAsUnicodeComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRef$UTF8SortedAsUnicodeComparator.class
+END
+Attribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Attribute.class
+END
+Counter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Counter$1.class
+END
+AttributeSource$AttributeFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeSource$AttributeFactory.class
+END
+NamedThreadFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/NamedThreadFactory.class
+END
+BytesRef$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRef$1.class
+END
+FieldCacheSanityChecker$InsanityType.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/FieldCacheSanityChecker$InsanityType.class
+END
+DoubleBarrelLRUCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/DoubleBarrelLRUCache.class
+END
+AttributeReflector.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeReflector.class
+END
+OpenBitSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/OpenBitSet.class
+END
+ThreadInterruptedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ThreadInterruptedException.class
+END
+ByteBlockPool$Allocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ByteBlockPool$Allocator.class
+END
+SimpleStringInterner$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SimpleStringInterner$Entry.class
+END
+UnicodeUtil$UTF16Result.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/UnicodeUtil$UTF16Result.class
+END
+Counter$AtomicCounter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Counter$AtomicCounter.class
+END
+MapBackedSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/MapBackedSet.class
+END
+FieldCacheSanityChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/FieldCacheSanityChecker.class
+END
+UnicodeUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/UnicodeUtil.class
+END
+OpenBitSetDISI.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/OpenBitSetDISI.class
+END
+OpenBitSetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/OpenBitSetIterator.class
+END
+SortedVIntList$SortedVIntListBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SortedVIntList$SortedVIntListBuilder.class
+END
+BytesRefHash.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRefHash.class
+END
+VirtualMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/VirtualMethod.class
+END
+DocIdBitSet$DocIdBitSetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/DocIdBitSet$DocIdBitSetIterator.class
+END
+TwoPhaseCommitTool$CommitFailException.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/TwoPhaseCommitTool$CommitFailException.class
+END
+TwoPhaseCommitTool$TwoPhaseCommitWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/TwoPhaseCommitTool$TwoPhaseCommitWrapper.class
+END
+AverageGuessMemoryModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AverageGuessMemoryModel.class
+END
+RamUsageEstimator.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/RamUsageEstimator.class
+END
+CharsRef.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CharsRef.class
+END
+ReaderUtil$Gather.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ReaderUtil$Gather.class
+END
+ArrayUtil$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ArrayUtil$1.class
+END
+Bits.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Bits.class
+END
+MapOfSets.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/MapOfSets.class
+END
+SetOnce$AlreadySetException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SetOnce$AlreadySetException.class
+END
+StringHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/StringHelper.class
+END
+FieldCacheSanityChecker$Insanity.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/FieldCacheSanityChecker$Insanity.class
+END
+ScorerDocQueue$HeapedScorerDoc.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ScorerDocQueue$HeapedScorerDoc.class
+END
+ByteBlockPool$DirectAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ByteBlockPool$DirectAllocator.class
+END
+ByteBlockPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ByteBlockPool.class
+END
+AttributeSource$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeSource$1.class
+END
+FixedBitSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/FixedBitSet.class
+END
+BitUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BitUtil.class
+END
+BytesRefHash$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRefHash$1.class
+END
+PagedBytes$PagedBytesDataInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/PagedBytes$PagedBytesDataInput.class
+END
+StringInterner.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/StringInterner.class
+END
+BytesRefHash$BytesStartArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRefHash$BytesStartArray.class
+END
+CollectionUtil$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CollectionUtil$2.class
+END
+RecyclingByteBlockAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/RecyclingByteBlockAllocator.class
+END
+AverageGuessMemoryModel$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AverageGuessMemoryModel$1.class
+END
+BytesRefHash$MaxBytesLengthExceededException.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRefHash$MaxBytesLengthExceededException.class
+END
+CharsRef$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CharsRef$1.class
+END
+NumericUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/NumericUtils.class
+END
+AttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeImpl.class
+END
+CharacterUtils$CharacterBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CharacterUtils$CharacterBuffer.class
+END
+AttributeSource$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeSource$State.class
+END
+DoubleBarrelLRUCache$CloneableKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/DoubleBarrelLRUCache$CloneableKey.class
+END
+ByteBlockPool$DirectTrackingAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ByteBlockPool$DirectTrackingAllocator.class
+END
+IndexableBinaryStringTools$CodingCase.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/IndexableBinaryStringTools$CodingCase.class
+END
+SortedVIntList.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SortedVIntList.class
+END
+UnicodeUtil$UTF8Result.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/UnicodeUtil$UTF8Result.class
+END
+BitVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BitVector.class
+END
+Bits$MatchNoBits.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Bits$MatchNoBits.class
+END
+TwoPhaseCommit.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/TwoPhaseCommit.class
+END
+IndexableBinaryStringTools.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/IndexableBinaryStringTools.class
+END
+TwoPhaseCommitTool$PrepareCommitFailException.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/TwoPhaseCommitTool$PrepareCommitFailException.class
+END
+AttributeImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeImpl$1.class
+END
+BytesRefHash$DirectBytesStartArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRefHash$DirectBytesStartArray.class
+END
+IntsRef.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/IntsRef.class
+END
+CodecUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CodecUtil.class
+END
+ArrayUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ArrayUtil.class
+END
+CharacterUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CharacterUtils.class
+END
+PagedBytes$PagedBytesDataOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/PagedBytes$PagedBytesDataOutput.class
+END
+PagedBytes$Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/PagedBytes$Reader.class
+END
+BytesRef$UTF8SortedAsUTF16Comparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRef$UTF8SortedAsUTF16Comparator.class
+END
+SortedVIntList$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SortedVIntList$1.class
+END
+Counter$SerialCounter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Counter$SerialCounter.class
+END
+AttributeSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeSource.class
+END
+Version.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/Version.class
+END
+NumericUtils$IntRangeBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/NumericUtils$IntRangeBuilder.class
+END
+PriorityQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/PriorityQueue.class
+END
+PagedBytes.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/PagedBytes.class
+END
+SimpleStringInterner.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SimpleStringInterner.class
+END
+IOUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/IOUtils.class
+END
+ScorerDocQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ScorerDocQueue.class
+END
+CollectionUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CollectionUtil.class
+END
+AttributeSource$AttributeFactory$DefaultAttributeFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeSource$AttributeFactory$DefaultAttributeFactory.class
+END
+MemoryModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/MemoryModel.class
+END
+BytesRefHash$TrackingDirectBytesStartArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/BytesRefHash$TrackingDirectBytesStartArray.class
+END
+SmallFloat.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SmallFloat.class
+END
+SetOnce.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SetOnce.class
+END
+ArrayUtil$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/ArrayUtil$2.class
+END
+CharacterUtils$Java4CharacterUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CharacterUtils$Java4CharacterUtils.class
+END
+CharacterUtils$Java5CharacterUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/CharacterUtils$Java5CharacterUtils.class
+END
+DummyConcurrentLock.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/DummyConcurrentLock.class
+END
+AttributeSource$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/AttributeSource$2.class
+END
+SorterTemplate.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/util/SorterTemplate.class
+END

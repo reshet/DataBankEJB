@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service
+END
+AmrEAOLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/AmrEAOLocal.java
+END
+UserAccountEAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/UserAccountEAO.java
+END
+ES_indexing_Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/ES_indexing_Bean.java
+END
+UserSocioResearchSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/UserSocioResearchSessionBean.java
+END
+AmrEAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/AmrEAO.java
+END
+AdminSocioResearchMDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/AdminSocioResearchMDB.java
+END
+AmrBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/AmrBean.java
+END
+UserAccountSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/UserAccountSessionBean.java
+END
+RxStorageSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/RxStorageSessionBean.java
+END
+AdminSocioResearchSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/com/mplatforma/amr/service/AdminSocioResearchSessionBean.java
+END

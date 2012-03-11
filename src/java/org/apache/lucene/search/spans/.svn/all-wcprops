@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans
+END
+TermSpans.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/TermSpans.class
+END
+SpanOrQuery$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanOrQuery$1.class
+END
+SpanTermQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanTermQuery.class
+END
+SpanScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanScorer.class
+END
+SpanMultiTermQueryWrapper$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanMultiTermQueryWrapper$1.class
+END
+NearSpansOrdered$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/NearSpansOrdered$1.class
+END
+SpanMultiTermQueryWrapper$SpanRewriteMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanMultiTermQueryWrapper$SpanRewriteMethod.class
+END
+SpanPositionRangeQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanPositionRangeQuery.class
+END
+SpanNearQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanNearQuery.class
+END
+SpanPositionCheckQuery$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanPositionCheckQuery$1.class
+END
+NearSpansUnordered.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/NearSpansUnordered.class
+END
+SpanMultiTermQueryWrapper$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanMultiTermQueryWrapper$1$1.class
+END
+SpanNearPayloadCheckQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanNearPayloadCheckQuery.class
+END
+SpanMultiTermQueryWrapper$TopTermsSpanBooleanQueryRewrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanMultiTermQueryWrapper$TopTermsSpanBooleanQueryRewrite.class
+END
+SpanNotQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanNotQuery.class
+END
+SpanWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanWeight.class
+END
+NearSpansUnordered$CellQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/NearSpansUnordered$CellQueue.class
+END
+NearSpansUnordered$SpansCell.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/NearSpansUnordered$SpansCell.class
+END
+SpanPositionCheckQuery$PositionCheckSpan.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanPositionCheckQuery$PositionCheckSpan.class
+END
+SpanOrQuery$SpanQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanOrQuery$SpanQueue.class
+END
+Spans.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/Spans.class
+END
+SpanQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanQuery.class
+END
+SpanOrQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanOrQuery.class
+END
+SpanMultiTermQueryWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanMultiTermQueryWrapper.class
+END
+SpanMultiTermQueryWrapper$TopTermsSpanBooleanQueryRewrite$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanMultiTermQueryWrapper$TopTermsSpanBooleanQueryRewrite$1.class
+END
+SpanNotQuery$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanNotQuery$1.class
+END
+SpanPayloadCheckQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanPayloadCheckQuery.class
+END
+NearSpansOrdered.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/NearSpansOrdered.class
+END
+SpanFirstQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanFirstQuery.class
+END
+SpanPositionCheckQuery$AcceptStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanPositionCheckQuery$AcceptStatus.class
+END
+FieldMaskingSpanQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/FieldMaskingSpanQuery.class
+END
+SpanPositionCheckQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/spans/SpanPositionCheckQuery.class
+END

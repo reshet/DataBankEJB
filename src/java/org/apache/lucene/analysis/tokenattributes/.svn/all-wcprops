@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes
+END
+CharTermAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/CharTermAttributeImpl.class
+END
+TermAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/TermAttributeImpl.class
+END
+PayloadAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/PayloadAttribute.class
+END
+PositionIncrementAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/PositionIncrementAttributeImpl.class
+END
+FlagsAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttribute.class
+END
+TypeAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/TypeAttributeImpl.class
+END
+CharTermAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/CharTermAttribute.class
+END
+KeywordAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/KeywordAttributeImpl.class
+END
+TermAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/TermAttribute.class
+END
+OffsetAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/OffsetAttributeImpl.class
+END
+PositionIncrementAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/PositionIncrementAttribute.class
+END
+PayloadAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/PayloadAttributeImpl.class
+END
+FlagsAttributeImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttributeImpl.class
+END
+TypeAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/TypeAttribute.class
+END
+KeywordAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/KeywordAttribute.class
+END
+OffsetAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/analysis/tokenattributes/OffsetAttribute.class
+END

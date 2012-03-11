@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads
+END
+PayloadTermQuery$PayloadTermWeight$PayloadTermSpanScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadTermQuery$PayloadTermWeight$PayloadTermSpanScorer.class
+END
+PayloadFunction.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadFunction.class
+END
+MinPayloadFunction.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/MinPayloadFunction.class
+END
+PayloadNearQuery$PayloadNearSpanWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadNearQuery$PayloadNearSpanWeight.class
+END
+MaxPayloadFunction.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/MaxPayloadFunction.class
+END
+PayloadNearQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadNearQuery.class
+END
+PayloadTermQuery$PayloadTermWeight.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadTermQuery$PayloadTermWeight.class
+END
+PayloadTermQuery.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadTermQuery.class
+END
+PayloadNearQuery$PayloadNearSpanScorer.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadNearQuery$PayloadNearSpanScorer.class
+END
+PayloadSpanUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/PayloadSpanUtil.class
+END
+AveragePayloadFunction.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repo/!svn/ver/2/DatabankEnterprise-ejb/src/java/org/apache/lucene/search/payloads/AveragePayloadFunction.class
+END
